@@ -1,10 +1,10 @@
-# Melodelete
+# Discodelete
 
-Melodelete is a Discord bot that can be configured to run through messages on certain channels of a server and delete messages older than a certain age in hours or above a certain number of recent messages or both, preserving pinned messages.
+Discodelete is a Discord bot that can be configured to run through messages on certain channels of a server and delete messages older than a certain age in hours or above a certain number of recent messages or both, preserving pinned messages.
 
 ## Setting up
 
-To run Melodelete, you will need a computer with [Python 3](https://www.python.org/download/releases/3.0/) installed, as well as the `discord.py` package, which you can install with the following command:
+To run the bot, you will need a computer with [Python 3](https://www.python.org/download/releases/3.0/) installed, as well as the `discord.py` package, which you can install with the following command:
 ```
 pip3 install discord
 ```
